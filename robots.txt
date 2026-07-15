@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://guxinyax.github.io/meiridasaijn/sitemap.xml
